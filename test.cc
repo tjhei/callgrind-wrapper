@@ -1,4 +1,4 @@
-#include "perf.h"
+#include "callgrind-wrapper.h"
 #include <iostream>
 
 int main()
